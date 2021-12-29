@@ -61,7 +61,25 @@ displayEven()
 
 
 // display odd numbers from 0 - 10
+// TODO: finish function
+function display_odd(){
+
+}
 // display 10 divide by numbers from 0 - 10 hint: can you divide by 0
+
+function ten_divisible(){
+	
+}
+
+// create a function displays fizz when number is divisible by 3 and buzz when number is divisible by 5
+// and fizzbuzz if divisible by 3 and 5 
+// TODO: finish function
+function fizzbuzz(){
+	for(let i = 1; i < 20; i++){
+		
+	}
+}
+
 
 // truth tables 
 // A B | A && B
